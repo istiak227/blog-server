@@ -1,0 +1,18 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "HTML !important",
+        "date": "July 5, 2021",
+        "subtitle": "Important and usefull tags of HTML",
+        "description": "HTML (Hypertext Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. Below is an example of HTML used to define a basic webpage with a title and a single paragraph of text. ... Properly formatted HTML pages should include <html>, <head>, and <body> tags, which are all included in the example above. The page title, metadata, and links to referenced files are placed between the <head> tags"
+      },
+      {
+        "id": 1,
+        "title": "HTML !important",
+        "date": "July 5, 2021",
+        "subtitle": "Important and usefull tags of HTML",
+        "description": "HTML (Hypertext Markup Language) is the code that is used to structure a web page and its content. For example, content could be structured within a set of paragraphs, a list of bulleted points, or using images and data tables. Below is an example of HTML used to define a basic webpage with a title and a single paragraph of text. ... Properly formatted HTML pages should include <html>, <head>, and <body> tags, which are all included in the example above. The page title, metadata, and links to referenced files are placed between the <head> tags"
+      }
+    ]
+  }
